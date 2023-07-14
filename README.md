@@ -2,7 +2,7 @@
 
 I'm Artur a Middle Python Developer. I Spend most of my time coding outstanding projects.
 
-<!-- TODO: Add last video link -->
+![Snake animation](https://github.com/riktikdev/riktikdev/blob/output/github-contribution-grid-snake.svg)
 
 ### What I currently Do
 

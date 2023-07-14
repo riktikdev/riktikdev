@@ -1,6 +1,6 @@
 ## Hi I'm Artur 👋
 
-I'm Artur a Middle Python Developer. I Spend most of my time coding outstanding projects.
+<h4>I'm Artur a Middle Python Developer. I Spend most of my time coding outstanding projects.</h4>
 
 <div align="center">
   <img width="1200" src="https://github.com/riktikdev/riktikdev/assets/63802225/6cf9b0b5-d059-41e4-957b-606fb752167f" />

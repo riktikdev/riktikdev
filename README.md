@@ -1,18 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## Hi I'm Artur 👋
 
-###
+I'm Artur a Middle Python Developer. I Spend most of my time coding outstanding projects.
 
-<p align="left">My name is Artur and I'm a Middle Python Developer, from Ukraine</p>
+<!-- TODO: Add last video link -->
 
-###
+### What I currently Do
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I like to make bugs in code<br>📚 I'm currently learning NextJS and FastAPI<br>🎯 Goals: Finish an anime streaming website - AniMi<br>🎮 I am playing Genshin Impact as the character Hu Tao. I'm a 55 adventure rank.</p>
-
-###
+- 🔭 I'm currently working on my website - [AniMi](https://animi.site)
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: @official_riktik on Discord.
+- 🎮 What I play: I am playing Genshin Impact as the character Hu Tao. I'm a 55 adventure rank.
 
 ###
 

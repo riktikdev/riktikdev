@@ -3,7 +3,7 @@
 I'm Artur a Middle Python Developer. I Spend most of my time coding outstanding projects.
 
 <div align="center">
-  <img width="1000" src="https://github.com/riktikdev/riktikdev/assets/63802225/8cc9d6b0-e1ce-4f1e-985d-ff00b5da42ed" />
+  <img width="1200" src="https://github.com/riktikdev/riktikdev/assets/63802225/6cf9b0b5-d059-41e4-957b-606fb752167f" />
 </div>
 
 ### What I currently Do

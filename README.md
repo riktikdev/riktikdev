@@ -2,7 +2,9 @@
 
 I'm Artur a Middle Python Developer. I Spend most of my time coding outstanding projects.
 
-<img alt="hu tao gif" src="https://64.media.tumblr.com/f43806f097f2cfab9e1d0b25b29a42af/ce93eb6cd25e10a1-4b/s1280x1920/7e108a5ebcf05a370afbd51a6bfc5e40254fa5c6.gif" />
+<div align="center">
+  <img width="1000" src="https://github.com/riktikdev/riktikdev/assets/63802225/8cc9d6b0-e1ce-4f1e-985d-ff00b5da42ed" />
+</div>
 
 ### What I currently Do
 

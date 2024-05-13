@@ -1,17 +1,13 @@
 ## Hi I'm Artur 👋
 
-<h4>I'm Artur a Frontend Developer. I Spend most of my time coding outstanding projects.</h4>
-
-<div align="center">
-  <img width="1200" src="https://github.com/riktikdev/riktikdev/assets/63802225/6cf9b0b5-d059-41e4-957b-606fb752167f" />
-</div>
+<h4>I'm Frontend Developer. I Spend most of my time coding outstanding projects.</h4>
 
 ### What I currently Do
 
 - 🔭 I'm currently working on my website - [AniMi](https://animi.club)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: @official_riktik on Discord.
-- 🎮 What I play: I am playing Genshin Impact as the character Hu Tao. I'm a 55 adventure rank.
+- 🎮 What I play: I am playing Genshin Impact as the character Hu Tao. I'm a 56 adventure rank.
 
 ###
 
